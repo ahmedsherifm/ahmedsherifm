@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **asherifhegazy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16JJ1j2BWxOAf_xI_QlKgZ1yicqsLgWi2/view](https://drive.google.com/file/d/16JJ1j2BWxOAf_xI_QlKgZ1yicqsLgWi2/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16JJ1j2BWxOAf_xI_QlKgZ1yicqsLgWi2/view" rel="follow">My Resume</a>
 
 - ⚡ Fun fact **Gaming, Anime, Food,... Repeat**
 
